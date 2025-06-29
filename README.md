@@ -45,7 +45,7 @@
 
 | Login | Home | Profile |
 |------|------|---------|
-| ![Login](Screenshot_1750737753.png)) | ![Home](screenshots/Screenshot_1750738091.png) | ![Profile](screenshots/Screenshot_1750738202.png) |
+| ![Login](screenshots/Screenshot_1750737753.png)) | ![Home](screenshots/Screenshot_1750738091.png) | ![Profile](screenshots/Screenshot_1750738202.png) |
 
 ---
 
