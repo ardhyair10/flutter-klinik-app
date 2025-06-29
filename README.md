@@ -45,7 +45,7 @@
 
 | Login | Home | Profile |
 |------|------|---------|
-| ![Login]([screenshots/Screenshot_1750737753.png](https://drive.google.com/file/d/1msUGyJU2bagw6U2JcKxcFkhmpgkgfswA/view?usp=sharing)) | ![Home](screenshots/Screenshot_1750738091.png) | ![Profile](screenshots/Screenshot_1750738202.png) |
+| ![Login](Screenshot_1750737753.png)) | ![Home](screenshots/Screenshot_1750738091.png) | ![Profile](screenshots/Screenshot_1750738202.png) |
 
 ---
 
