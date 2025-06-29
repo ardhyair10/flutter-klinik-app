@@ -47,8 +47,8 @@
 |------|------|---------|
 | ![Login](screenshots/Screenshot_1750737753.png)) | ![Home](screenshots/Screenshot_1750738091.png) | ![Register](screenshots/Screenshot_1750737767.png) |
 
-| Riwayat | Booking | Map |
-|---------|---------|-----|
+| Riwayat | Booking 
+|---------|---------|
 | ![Reset Password](screenshots/Screenshot_1750737761.png) | ![Location](screenshots/Screenshot_1750738042.png) |
 
 ---
